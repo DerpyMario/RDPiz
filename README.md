@@ -7,14 +7,14 @@
 [![OS - MAcOS](https://img.shields.io/badge/MacOs-000000?style=for-the-badge&logo=Apple&logoColor=)](https://www.apple.com/macos/server/)
 
 [![GitHub followers](https://img.shields.io/github/followers/danwar8.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/danwar8)
-[![GitHub stars](https://img.shields.io/github/stars/danwar8/RDP.svg?style=social&label=Star)](https://github.com/danwar8/RDP)
-[![GitHub forks](https://img.shields.io/github/forks/danwar8/RDP.svg?style=social&label=Fork)](https://github.com/danwar8/RDP/fork)
-[![GitHub watchers](https://img.shields.io/github/watchers/danwar8/RDP.svg?style=social&label=Watch)](https://github.com/danwar8/RDP)
+[![GitHub stars](https://img.shields.io/github/stars/danwar8/RDPiz.svg?style=social&label=Star)](https://github.com/danwar8/RDPiz)
+[![GitHub forks](https://img.shields.io/github/forks/danwar8/RDPiz.svg?style=social&label=Fork)](https://github.com/danwar8/RDPiz/fork)
+[![GitHub watchers](https://img.shields.io/github/watchers/danwar8/RDPiz.svg?style=social&label=Watch)](https://github.com/danwar8/RDPiz)
 
-[![GitHub issues](https://img.shields.io/github/issues/danwar8/RDP.svg)](https://github.com/danwar8/RDP/issues)
-[![GitHub issues](https://img.shields.io/github/issues-closed/danwar8/RDP.svg)](https://github.com/danwar8/RDP/issues)
-[![GitHub issues](https://img.shields.io/github/license/danwar8/RDP.svg
-)](https://github.com/danwar8/RDP)
+[![GitHub issues](https://img.shields.io/github/issues/danwar8/RDPiz.svg)](https://github.com/danwar8/RDPiz/issues)
+[![GitHub issues](https://img.shields.io/github/issues-closed/danwar8/RDPiz.svg)](https://github.com/danwar8/RDPiz/issues)
+[![GitHub issues](https://img.shields.io/github/license/danwar8/RDPiz.svg
+)](https://github.com/danwar8/RDPiz)
 
 ------
 
