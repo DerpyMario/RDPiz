@@ -16,9 +16,9 @@ echo $4 | perl -we 'BEGIN { @k = unpack "C*", pack "H*", "1734516E8BA8C5E2FF1C39
 sudo /System/Library/CoreServices/RemoteManagement/ARDAgent.app/Contents/Resources/kickstart -restart -agent -console
 sudo /System/Library/CoreServices/RemoteManagement/ARDAgent.app/Contents/Resources/kickstart -activate
 
-brew install --cask ngrok
-brew install --cask google-chrome
-brew install --cask teamviewer
+brew install ngrok --cask
+brew install google-chrome --cask
+brew install teamviewer --cask
 
 ngrok authtoken $1
 ngrok tcp 5900 --region=$2 &
