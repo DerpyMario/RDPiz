@@ -1,4 +1,4 @@
-name: MacOS (Ngrok VNC Viewer)
+name: MacOS
 on: 
   workflow_dispatch:
     inputs:
@@ -11,7 +11,7 @@ on:
         required: true
       username:
         description: 'Username'
-        default: 'ZUser'
+        default: 'macOS'
         required: true
       password:
         description: 'Password (minimum 8-10 numbers/characters)'
@@ -19,7 +19,8 @@ on:
 
 jobs:
   build:
-    runs-on: macos-latest
+    runs-on: macos-13
+    timeout-minutes: 360
     steps:
     - uses: actions/checkout@v2
     - name: Mask Token, Username & Password.
